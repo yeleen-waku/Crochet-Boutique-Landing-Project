@@ -1,0 +1,19 @@
+.banner {  
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/blue-crochet-banner.png");
+	background-size: cover;     
+	background-position: center;
+  padding: 30px;
+  padding-bottom: 80px;
+  margin-bottom: 20px;
+  border-bottom-right-radius: 55px;
+  border-bottom-left-radius: 55px;
+}
+
+.banner h1 {
+  color: #b579f2;
+  font-size: 50px;
+}
+.banner h2 {
+  color: #67bbfc;
+  font-size: 30px;
+}
